@@ -1,0 +1,13 @@
+=== RAG Demo Output Log ===
+Q: What is this publication about?
+A: Science/Tech
+Sources: lesson1.txt
+
+Q: Which tools are recommended in the documents?
+A: LangChain and vector databases
+Sources: lesson1.txt
+
+Q: What limitation is mentioned?
+A: small dataset demo and offline vector DB precision challenges
+Sources: lesson1.txt
+
