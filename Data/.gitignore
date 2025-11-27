@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+*.bin
+*.sqlite3
+chroma_db/
+.env
