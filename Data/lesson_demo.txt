@@ -1,0 +1,11 @@
+What is RAG?
+RAG (Retrieval-Augmented Generation) is a system that retrieves information from a knowledge base and gives it to a language model to generate a fact-grounded answer.
+
+Why use embeddings?
+Embeddings convert text into vectors so that semantic similarity can be measured, even if the wording is different.
+
+What is ChromaDB?
+ChromaDB is a vector database that stores embeddings along with text for fast similarity search. It can run locally without a server.
+
+Example use case:
+When building an AI assistant that must answer from specific documents like PDFs, textbooks, reports or support logs instead of general internet knowledge.
